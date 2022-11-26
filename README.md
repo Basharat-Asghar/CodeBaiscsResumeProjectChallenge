@@ -18,3 +18,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 4) Most bookings are made through other means.
 5) "makeyourtrip", "logtrip", "direct online" are the leading booking platforms.
 5) If we look at revenue per booking Presidential rooms are most beneficial.
+
+## Final Dashboard
+![Atliq_Grand_Dashboard xlsx - Excel 26_11_2022 16_06_27](https://user-images.githubusercontent.com/44581625/204087032-c0fc8d7b-deea-4ba4-8d25-92860c1a3e2e.png)
