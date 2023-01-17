@@ -23,4 +23,4 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 5) If we look at revenue per booking Presidential rooms are most beneficial.
 
 ## Final Dashboard
-![Atliq_Grand_Dashboard xlsx - Excel 26_11_2022 16_06_27](https://user-images.githubusercontent.com/44581625/204087032-c0fc8d7b-deea-4ba4-8d25-92860c1a3e2e.png)
+![Atliq_Grand_Dashboard xlsx - Excel 11_01_2023 11_42_49](https://user-images.githubusercontent.com/44581625/213017347-565c1c4e-38ea-40ca-acc8-8a5444aa177e.png)
