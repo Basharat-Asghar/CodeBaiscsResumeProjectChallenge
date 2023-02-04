@@ -14,8 +14,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 * Power Query, Data Modeling, Pivot Tables
 
 ## Insights :
-1) Dehli have the highest occupancy % but realized the less amount of revenue.
-2) Mostly because of Atliq Grands, as this is the only property where Dehli have the highest occupancy% of all properties.
+1) Delhi have the highest occupancy % but realized the less amount of revenue.
+2) Mostly because of Atliq Grands, as this is the only property where Delhi have the highest occupancy% of all properties.
 3) Standard rooms are where they have total 1142 bookings, while realizing 9M revenue, whereas Mumbai with 940 bookings,
 	realize 9.2M revenue.
 4) Most bookings are made through other means.
